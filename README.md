@@ -788,8 +788,6 @@ Resume Don’ts : ❌❌❌❌
 7. Don't use an inappropriate email address
 
 
-
-
 2. LinkedIn: Why having a good LinkedIn profile is so important these days, people don’t tend to take it serious as they should. 💁‍♀
 
 Jobs these days require you submit your LinkedIn profile links . 
