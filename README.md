@@ -745,7 +745,7 @@ TAP ⏩ [DevOps Certificate](https://devopscube.com/best-devops-certifications/)
  
 ## How to get a Job Fast
 
-1. Resume : While people tend to present an essay as a resume or some template they got online 🙅‍♀
+**Resume :** While people tend to present an essay as a resume or some template they got online 🙅‍♀
 
 Hiring manager come across hundreds of resumes all the time, they don’t have time to read all the resumes. 
 
@@ -791,17 +791,14 @@ Resume Don’ts : ❌❌❌❌
 
 
 
-
-2. LinkedIn: Why having a good LinkedIn profile is so important these days, people don’t tend to take it serious as they should. 💁‍♀
+**LinkedIn:** Why having a good LinkedIn profile is so important these days, people don’t tend to take it serious as they should. 💁‍♀
 
 Jobs these days require you submit your LinkedIn profile links . 
 
 LinkedIn as come to serve as a secret 🤫 background check for many companies. 
 
 
-
-
-3. GitHub Account : Your GitHub might just be one of the place to land you your dream job. ✅
+**GitHub Account :** Your GitHub might just be one of the place to land you your dream job. ✅
 
 Just imagine going for a devOps or developer role and you don’t have any projects to show off . 🙅‍♀🤦‍♀
 
