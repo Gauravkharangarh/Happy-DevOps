@@ -35,7 +35,7 @@ Follow the Roadmap:
 22. Starting Applying for Jobs
 ```
 
-![WhatsApp Image 2023-01-22 at 08 43 29](https://user-images.githubusercontent.com/85270361/213905861-91ddc00c-a15d-4286-94b1-3856f4dc853f.jpg)
+![Image2](https://user-images.githubusercontent.com/85270361/213905861-91ddc00c-a15d-4286-94b1-3856f4dc853f.jpg)
 
 
 ## Links to Resources
@@ -731,7 +731,7 @@ Follow the Roadmap:
 
 TAP ⏩ [DevOps Certificate](https://devopscube.com/best-devops-certifications/)
 
-![WhatsApp Image 2023-01-14 at 18 12 34](https://user-images.githubusercontent.com/85270361/212485937-b82b9821-bcf8-4366-98a5-e10e166489c1.jpg)
+![Image3](https://user-images.githubusercontent.com/85270361/212485937-b82b9821-bcf8-4366-98a5-e10e166489c1.jpg)
 
 
 
@@ -786,7 +786,6 @@ Resume Don’ts : ❌❌❌❌
 6. Don't include unnecessary personal information
 
 7. Don't use an inappropriate email address
-
 
 
 
