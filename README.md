@@ -751,6 +751,8 @@ Hiring manager come across hundreds of resumes all the time, they don’t have t
 
 First look at your resume will determine if they will go through it or not. So your resume pass through different stages before you get your first email. ⭐⭐⭐
 
+
+
 Tips for your résumé: ✅✅✅
 
 1. Tailor your resume to suit the position you are applying for
@@ -789,11 +791,14 @@ Resume Don’ts : ❌❌❌❌
 
 
 
+
 2. LinkedIn: Why having a good LinkedIn profile is so important these days, people don’t tend to take it serious as they should. 💁‍♀
 
 Jobs these days require you submit your LinkedIn profile links . 
 
 LinkedIn as come to serve as a secret 🤫 background check for many companies. 
+
+
 
 
 3. GitHub Account : Your GitHub might just be one of the place to land you your dream job. ✅
