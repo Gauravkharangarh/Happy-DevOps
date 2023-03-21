@@ -751,12 +751,6 @@ Hiring manager come across hundreds of resumes all the time, they don’t have t
 
 First look at your resume will determine if they will go through it or not. So your resume pass through different stages before you get your first email. ⭐⭐⭐
 
-Go through this link to understand what your resume stands against. 👇👇👇👇
-
-
-[WHAT YOUR RESUME IS UP AGAINST](https://medium.com/@AnnFelix/what-your-resume-is-up-against-e6c96c1a88be)
-
-
 Tips for your résumé: ✅✅✅
 
 1. Tailor your resume to suit the position you are applying for
@@ -801,12 +795,6 @@ Resume Don’ts : ❌❌❌❌
 Jobs these days require you submit your LinkedIn profile links . 
 
 LinkedIn as come to serve as a secret 🤫 background check for many companies. 
-
-Click on this link, to understand how important your LinkedIn profile is and ways to fix it. 
-👇👇👇👇
-
-[Your LinkedIn account is just as important as your RESUME](https://medium.com/@AnnFelix/your-linkedin-account-is-just-as-important-as-your-resume-5435145b904f)
-
 
 
 3. GitHub Account : Your GitHub might just be one of the place to land you your dream job. ✅
